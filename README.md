@@ -11,6 +11,10 @@
 游戏包含了完整的开场运镜动画、UI 交互、阳光资源管理、植物种植防御及僵尸进攻逻辑。
 
 ## 🎮 游戏演示
+<img width="1352" height="948" alt="image" src="https://github.com/user-attachments/assets/a21f8ac4-d06a-45ca-afa5-ff98380525f4" />
+<img width="1352" height="948" alt="image" src="https://github.com/user-attachments/assets/2e4ca5f6-6869-4a9c-be3d-72490daf8f39" />
+<img width="1350" height="941" alt="image" src="https://github.com/user-attachments/assets/0ba9f4cd-4a7d-4baf-8e9e-540fe95cda9b" />
+
 
 <!-- 💡 建议运行程序后截图替换此处图片 -->
 
